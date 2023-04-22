@@ -6,12 +6,12 @@ import 'firebase/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC2Na9lrh6rl26v4OUmeoUUtDuMI67Eo6Q",
-  authDomain: "lockblock-25577.firebaseapp.com",
-  projectId: "lockblock-25577",
-  storageBucket: "lockblock-25577.appspot.com",
-  messagingSenderId: "312481526600",
-  appId: "1:312481526600:web:3944a8d5c8587010ed397d"
+  apiKey: ,
+  authDomain: ,
+  projectId: ,
+  storageBucket:,
+  messagingSenderId: ,
+  appId:
 };
 
 // Initialize Firebase
